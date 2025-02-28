@@ -31,7 +31,7 @@ The system consists of:
   - Machine Learning Models:
     - XGBoost Model: Predicts failure probabilities.
     - NLP Model: Ensures regulatory compliance of maintenance actions.
-    - Frontend Dashboard – For real-time monitoring and visualization.
+  - Frontend Dashboard – For real-time monitoring and visualization.
 
 ## Setup Instructions
   1. Clone the Repository
