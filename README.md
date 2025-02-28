@@ -10,15 +10,22 @@ Engineers can leverage this system to identify critical issues before failure oc
 
 ## Key Features
   ✅ Real-time Failure Prediction: Uses advanced XGBoost and LSTM models to predict potential failures before they occur.
+  
   ✅ Tool Criticality Risk Assessment: Evaluates the criticality of different tools based on multiple operational parameters.
+  
   ✅ Compliance Regulation Checking: Automatically checks system compliance against predefined regulatory standards.
+  
   ✅ SHAP-based Explainability: Engineers can visualize feature importance and understand how predictions are made.
+  
   ✅ Scalability & Adaptability: The system is designed to be easily scalable and can integrate with different sensor data sources.
+  
   ✅ FastAPI Integration: Provides a RESTful API for real-time prediction and compliance checking.
+  
   ✅ Automated Report Generation: Generates detailed maintenance and compliance reports.
+  
   ✅ Efficient & Sustainable: Optimized for handling large datasets efficiently, ensuring smooth AI-driven maintenance and monitoring.
 
-# System Architecture
+## System Architecture
 The system consists of:
   - Backend API (FastAPI) – Handles predictive maintenance and compliance verification.
   - Machine Learning Models:
@@ -26,7 +33,7 @@ The system consists of:
     - NLP Model: Ensures regulatory compliance of maintenance actions.
     - Frontend Dashboard – For real-time monitoring and visualization.
 
-# Setup Instructions
+## Setup Instructions
   1. Clone the Repository
      * git clone https://github.com/your-username/Predictive-Maintenance-and-Compliance-Assistant.git
      * cd Predictive-Maintenance-and-Compliance-Assistant
@@ -57,12 +64,12 @@ The system consists of:
   4. Generate Reports
   - Run the script to generate detailed reports or use the dashboard
 
-# Future Enhancements
+## Future Enhancements
   * Integration with IoT Sensors for real-time data streaming.
   * Enhanced Compliance Auditing with machine learning-driven rule analysis.
   * Dashboard for Engineers to visualize trends and compliance violations.
 
-Contributors
+## Contributors
   * Anant Raj - Developer & AI Engineer
   * Ananth P - UI Design Integration and Demo Video Editor
   * Alechenu Iyoko - Backend/API Development and Model Integration
